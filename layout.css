@@ -37,6 +37,14 @@ header h1
     top: 1rem;
     width: 6rem;
     height: auto;
+     width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+}
 }
 main
 {
